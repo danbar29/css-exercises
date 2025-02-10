@@ -1,0 +1,19 @@
+.text-class {
+    background-color: #ff6666;
+    font-family: verdana, DejaVue-Sans, sans-serif ;
+}
+
+.text-class2 {
+    font-size: 24px;
+}
+
+#text-id{
+    color:blue;
+    font-size: 36px;
+}
+
+#text-id2{
+    font-weight: bold;
+    font-size: 24px;
+    background-color: aquamarine;
+}
