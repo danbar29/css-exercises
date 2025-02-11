@@ -1,0 +1,20 @@
+.button1-class {
+    background-color:  black;
+    color: white;
+    font-family: verdana, DejaVue-Sans, sans-serif ;
+    font-weight: bold;
+    font-size:large;
+}
+
+
+.button2-class {
+    background-color: yellow;
+    font-weight: bold;
+    font-size:large;
+
+}
+
+.both-elements {
+    font-weight: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
